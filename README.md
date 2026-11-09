@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>
+  <a href="https://skiptothepoint.app/?utm_source=github">
+    <img src="https://skiptothepoint.app/opengraph.png" alt="Skip to the Point. Skips filler, keeps the point." width="900">
+  </a>
+</h1>
 
-<!--
-**helallao/helallao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <a href="https://skiptothepoint.app/?utm_source=github">
+        <img src="https://skiptothepoint.app/email-loader-cat.gif" width="148" alt="Skip to the Point">
+      </a>
+    </td>
+    <td>
+      <strong>Watch distraction free.</strong><br><br>
+      Our browser extension analyzes the parts of a YouTube video that don't matter — sponsors, filler, outros, self-promo, and more — in the background and skips them for you. You won't even notice.<br><br>
+      <a href="https://skiptothepoint.app/?utm_source=github">Skip to the Point ↗</a>
+    </td>
+  </tr>
+</table>
